@@ -24,4 +24,5 @@ The Rockbuster Stealth dataset contains information about the company’s film i
 - **Rental Data:** Records of rental transactions, including rental dates and return dates.
 - **Payment Data:** Payment amounts and dates associated with each rental.
 - **Staff & Store Data:** Information on store locations and employees.
-
+  
+## Explore the full Rockbuster analysis here: [Rockbuster  Stealth Analysis Presentation](https://github.com/alphyjose96/-Rockbuster-Stealth-Data-Analysis-Project-/blob/main/Rockbuster%20Stealth%20Presentation.pdf)
